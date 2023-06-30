@@ -1,16 +1,16 @@
-### Hi there 👋
+<div align="center">
+<h1 align="center">Hi! i am Alejandro Guillen 👋</h1>
+</div>
+<img src="![695931](https://github.com/AlejandroGuillen20/AlejandroGuillen20/assets/67745590/c9383e94-c955-4fbb-a337-85f80c117150)">
 
-<!--
-**AlejandroGuillen20/AlejandroGuillen20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mi
+
+- ⭐ Github Star ⭐ 
+- Fronted Developer
+
+
+
+
+
